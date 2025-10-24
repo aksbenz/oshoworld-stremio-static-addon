@@ -1,15 +1,15 @@
 {
-  "id": "com.stremio.nowexample",
+  "id": "com.stremio.oshoworld.audio",
   "version": "0.0.1",
-  "name": "Now.sh Example",
-  "description": "Example Add-on",
-  "resources": ["catalog", "meta", "stream"],
-  "types": ["movie"],
+  "name": "Oshoworld Audio",
+  "description": "Oshoworld Audio Static Addon",
+  "resources": ["catalog", "stream"],
+  "types": ["other"],
   "catalogs": [
     {
-      "type": "movie",
-      "id": "BigBuckBunnyCatalog",
-      "name": "Big Buck Bunny Catalog"
+      "type": "other",
+      "id": "AdhyatamUpanishadCatalog",
+      "name": "Adhyatam Upanishad"
     }
   ]
 }

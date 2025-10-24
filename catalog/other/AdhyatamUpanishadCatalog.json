@@ -1,0 +1,14 @@
+{
+    "metas": [
+        {
+            "id": "AdhyatamUpanishad",
+            "name": "Adhyatam Upanishad",
+            "year": 1970,
+            "poster": "https://m.media-amazon.com/images/I/519X7XxcBIL.jpg",
+            "posterShape": "regular",
+            "banner": "https://m.media-amazon.com/images/I/519X7XxcBIL.jpg",
+            "isFree": true,
+            "type": "series"
+        }
+    ]
+}
