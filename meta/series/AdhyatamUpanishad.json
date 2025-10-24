@@ -3,10 +3,10 @@
     "id": "AdhyatamUpanishad",
     "name": "Adhyatam Upanishad",
     "year": 1970,
-    "poster": "https://m.media-amazon.com/images/I/519X7XxcBIL.jpg",
+    "poster": "https://m.media-amazon.com/images/I/812KxNEMbnL._AC_UF1000,1000_QL80_.jpg",
     "posterShape": "regular",
-    "logo": "https://m.media-amazon.com/images/I/519X7XxcBIL.jpg",
-    "background": "https://m.media-amazon.com/images/I/519X7XxcBIL.jpg",
+    "logo": "https://m.media-amazon.com/images/I/812KxNEMbnL._AC_UF1000,1000_QL80_.jpg",
+    "background": "https://m.media-amazon.com/images/I/812KxNEMbnL._AC_UF1000,1000_QL80_.jpg",
     "isFree": true,
     "type": "series",
     "videos": [
@@ -15,20 +15,14 @@
         "title": "Adhyatam Upanishad 01",
         "released": "1970-01-01T00:00:00.000Z",
         "season": 1,
-        "episode": 1,
-        "streams": [{
-          "url": "https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Adhyatam_Upanishad_01.mp3"
-        }]
+        "episode": 1
       },
       {
         "id": "AdhyatamUpanishad02",
         "title": "Adhyatam Upanishad 02",
         "released": "1970-01-02T00:00:00.000Z",
         "season": 1,
-        "episode": 2,
-        "streams": [{
-          "url": "https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Adhyatam_Upanishad_02.mp3"
-        }]
+        "episode": 2
       }
     ]
   }
