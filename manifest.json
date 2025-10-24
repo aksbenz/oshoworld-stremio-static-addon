@@ -4,10 +4,10 @@
   "name": "Oshoworld Audio",
   "description": "Oshoworld Audio Static Addon",
   "resources": ["catalog", "stream"],
-  "types": ["other"],
+  "types": ["series"],
   "catalogs": [
     {
-      "type": "other",
+      "type": "series",
       "id": "OshoHindiDiscourse",
       "name": "Osho Hindi Discourses"
     }
