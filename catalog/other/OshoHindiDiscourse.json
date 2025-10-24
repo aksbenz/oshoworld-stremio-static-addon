@@ -2,7 +2,7 @@
     "metas": [
         {
             "id": "AdhyatamUpanishad",
-            "name": "Adhyatam Upanishad",
+            "name": "Adhyatam Upanishad1",
             "year": 1970,
             "poster": "https://m.media-amazon.com/images/I/519X7XxcBIL.jpg",
             "posterShape": "regular",
@@ -12,7 +12,7 @@
         },
         {
             "id": "AgyatKiAur",
-            "name": "Agyat Ki Aur",
+            "name": "Agyat Ki Aur1",
             "year": 1970,
             "poster": "https://oshoworld.com/_next/image?url=https%3A%2F%2Foshoworld.com%2Fuploads%2F200px-Agyat_Ki_Or_1967_cover.jpg&w=256&q=75",
             "posterShape": "regular",
